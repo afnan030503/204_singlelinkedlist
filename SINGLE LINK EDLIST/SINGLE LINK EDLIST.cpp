@@ -11,5 +11,8 @@ struct Mode
 Node* START = NULL;
 
 void addNote() {
+	int nim;
+	string nama
+		Node* nodeBaru = new node();
 
 }
