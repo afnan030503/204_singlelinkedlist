@@ -2,7 +2,7 @@
 using namespace std;
 
 struct Node{
-	int noMhs;
+	int noMhs; 
 	string name;
 	Node* next;
 };
