@@ -113,7 +113,7 @@ void searchData() {
 		system(" cls");
 		return;
 	}
-	else {
+	else  {
 		int nim;
 		cout << "Masukkan NIM: ";
 		cin >> nim;
