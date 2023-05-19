@@ -11,7 +11,7 @@ Node* START = NULL;
 
 void addNote()  {
 	int nim;
-	string nama;
+	string nama; 
 	Node* nodeBaru = new Node();
 	cout << "Masukkan NIM: ";
 	cin >> nim;
