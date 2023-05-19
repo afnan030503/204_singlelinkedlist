@@ -140,7 +140,7 @@ int main() {
 			cout << "2. Hapus Data" << endl;
 			cout << "3. Tampilkan Data" << endl;
 			cout << "4. Cari Data" << endl;
-			cout << "5. Keluar data" << endl;
+			cout << "5. Keluar data" << endl; 
 				cout << " Pilihan: ";
 			cin >> pilihan;
 			switch (pilihan)
