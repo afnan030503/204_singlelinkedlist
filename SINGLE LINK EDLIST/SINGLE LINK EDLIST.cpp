@@ -175,7 +175,7 @@ int main() {
 				traverse();
 				break;
 			case 4:
-				searchData();
+				searchData(); 
 				break;
 			case 5:
 				break;
